@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: deploypipelinetestapp-jrs
-  host: deploypipelinetestapp-jrs
+  name: hamaltea-jrs
+  host: hamaltea-jrs
   disk_quota: 1024M
